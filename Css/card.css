@@ -1,0 +1,22 @@
+
+  #total{
+    width:100%;
+    background:lightgreen;
+    display: block;
+    float:none;
+    text-align: center;
+    padding: 2px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+  }
+
+  .clearfix{
+    overflow: auto;
+  }
+
+  .title{
+    border: 1px solid black;
+    padding-top:25px;
+    padding-bottom:25px;
+    background-color: lightgreen;
+  }
